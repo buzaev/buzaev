@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @buzaev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- I am a doctor, a leader and a teacher
+
+- I dream of a world where it is easy for people to maintain a healthy and happy life, and all who seek help are healed bloodlessly, painlessly, and without a single mistake.
+- https://buzaev.com
 
 <!---
 buzaev/buzaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
